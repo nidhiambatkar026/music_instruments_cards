@@ -10,6 +10,9 @@
     margin-left: 30px;
     margin-bottom: 30px;
 }
+.cards:hover{
+    box-shadow: 10px 5px 10px 5px gray;
+}
 .img_card{
     border-radius:10px 10px 0px 0px;
     height: 200px;
@@ -23,4 +26,9 @@
     color: white;
     height: 50px;
     width: 100px;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline;
 }
